@@ -12,8 +12,6 @@ library(dplyr)
 library(pacman)
 library(knitr)
 
-# https://adorerdraco.tumblr.com/post/629304607263342592/request-you-should-like-do-a-one-shot-or-even
-
 ########
 # load the data 
 data <- read.csv(file.choose())
